@@ -98,19 +98,19 @@ function App() {
               <tbody>
                 <tr className="border-b border-gray-200">
                   <td className="p-2">Calories</td>
-                  <td className="p-2">277kcal</td>
+                  <td className="p-2 text-rose-900 font-bold">277kcal</td>
                 </tr>
                 <tr className="border-b border-gray-200">
                   <td className="p-2">Carbs</td>
-                  <td className="p-2">0g</td>
+                  <td className="p-2 text-rose-900 font-bold">0g</td>
                 </tr>
                 <tr className="border-b border-gray-200">
                   <td className="p-2">Protein</td>
-                  <td className="p-2">20g</td>
+                  <td className="p-2 text-rose-900 font-bold">20g</td>
                 </tr>
                 <tr>
                   <td className="p-2">Fat</td>
-                  <td className="p-2">22g</td>
+                  <td className="p-2 text-rose-900 font-bold">22g</td>
                 </tr>
               </tbody>
             </table>
